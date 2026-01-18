@@ -1,7 +1,7 @@
 [package]
 name = "nas"
-description="No Attention Span"
-version = "0.1.0"
+description="No Attention Span -- Automatically Open/Close TikTok during a long build"
+version = "1.0.0"
 edition = "2024"
 
 [dependencies]

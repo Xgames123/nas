@@ -1,6 +1,5 @@
-# nas
-
-No Attention Span -- Automatically Open/Close TikTok during a long build
+# No Attention Span
+Automatically Open/Close TikTok during a long build
 
 ## Usage
 
